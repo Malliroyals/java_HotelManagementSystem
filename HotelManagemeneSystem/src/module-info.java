@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author malli
+ *
+ */
+module HotelManagemeneSystem {
+}
