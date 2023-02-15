@@ -438,6 +438,7 @@ class Reception
 					}
 					break;
 			case 2:
+			//case 2:
 				if(hotel_ob.deluxe_doubleroom[rn] != null)
 					System.out.println("Room used by "
 				+ hotel_ob.deluxe_doubleroom[rn].name);
